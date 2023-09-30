@@ -12,12 +12,8 @@ Table of Contents
 
 ## Introduction
 
-This repository contains an analysis of COVID-19 vaccine-related data. We aim to provide insights into the effectiveness, distribution, and impact of COVID-19 vaccines. Our analysis includes various data sources and employs data visualization techniques to convey information effectively.
+This repository contains an analysis of COVID-19 vaccine-related data. Aim to provide insights into the effectiveness, distribution, and impact of COVID-19 vaccines. Our analysis includes various data sources and employs data visualization techniques to convey information effectively.
 
-## Data Sources
-
-- [Source 1](https://www.example.com/source1): Description of data source 1.
-- [Source 2](https://www.example.com/source2): Description of data source 2.
 
 ## Analysis
 
