@@ -2,13 +2,13 @@
 
 Table of Contents
 
-- [Introduction]
-- [Data Sources]
-- [Analysis]
-- [Results]
-- [How to Use]
-- [Contributing]
-- [License]
+- Introduction
+- Data Sources
+- Analysis
+- Results
+- How to Use
+- Contributing
+- License
 
 ## Introduction
 
