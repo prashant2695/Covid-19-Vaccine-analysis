@@ -3,7 +3,6 @@
 Table of Contents
 
 - Introduction
-- Data Sources
 - Analysis
 - Results
 - How to Use
