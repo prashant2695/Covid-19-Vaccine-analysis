@@ -2,27 +2,28 @@
 
 Table of Contents
 
+- Aim
 - Introduction
 - Analysis
 - Results
-- How to Use
-- Contributing
 - License
 
-## Introduction
+## Aim
 
-This repository contains an analysis of COVID-19 vaccine-related data. Aim to provide insights into the effectiveness, distribution, and impact of COVID-19 vaccines. Our analysis includes various data sources and employs data visualization techniques to convey information effectively.
+This Project aims to analyse data in detail on vaccinated people and fully vaccinated by year.
+
+## Introduction
+The main objective of this project is to analyze the data on,Covid-19 Vaccinations.Through the Analysis of data,we can find out some important insights.
 
 
 ## Analysis
 
 Our analysis covers the following aspects:
 
-- **Vaccine Effectiveness**: Analyzing the effectiveness of different COVID-19 vaccines against various strains of the virus.
+- **Vaccine Effectiveness**: Analyzing the effectiveness of different COVID-19 vaccines..
 
 - **Vaccine Distribution**: Examining the global distribution of vaccines, including vaccination rates by region and country.
 
-- **Impact Assessment**: Assessing the impact of vaccination efforts on the reduction of COVID-19 cases and related hospitalizations.
 
 ## Results
 
@@ -32,6 +33,3 @@ Here are some key findings from our analysis:
 - Findings 2: Another important insight from your research.
 - Findings 3: Highlight any unexpected or noteworthy results.
 
-## How to Use
-
-To replicate our analysis or explore the data further, follow these steps:
