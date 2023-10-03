@@ -5,7 +5,6 @@ Table of Contents
 - Aim
 - Introduction
 - Analysis
-- Results
 - License
 
 ## Aim
@@ -23,13 +22,4 @@ Our analysis covers the following aspects:
 - **Vaccine Effectiveness**: Analyzing the effectiveness of different COVID-19 vaccines..
 
 - **Vaccine Distribution**: Examining the global distribution of vaccines, including vaccination rates by region and country.
-
-
-## Results
-
-Here are some key findings from our analysis:
-
-- Findings 1: Describe a significant finding from your analysis.
-- Findings 2: Another important insight from your research.
-- Findings 3: Highlight any unexpected or noteworthy results.
 
